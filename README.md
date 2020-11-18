@@ -6,7 +6,7 @@ To run this program you first need to install all the libraries used.
 ```
 pip install -r requirements.txt
 ```
-This command will automatically download all the libraties used by this program.
+This command will automatically download all the libraries used by this program.
 
 To run, you can just
 
